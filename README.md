@@ -15,7 +15,7 @@ Vara klar med workshop 7 där du CRUD:ar utifrån 2 (eller 3) tabeller i MySQL (
 
 * Vad är skillnaden mellan GraphQL och REST?
 * Vad gör GraphQL bättre än REST?
-* När finns det anledning till att använda REST framför GraphQL
+* När finns det anledning till att använda REST framför GraphQL?
 
 * Beskriv de olika beståndsdelarna i GraphQL - schema, typer, query och mutation
 * Vad är en resolver-funktion?
